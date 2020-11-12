@@ -1,3 +1,3 @@
 # Rust
 
-Derdroste learns Rust, because it might be relevant sometimes in Webassembly and he already got to know C++ 
+Derdroste learns Rust, because it might be relevant sometime in Webassembly and he already got to know C++ 
